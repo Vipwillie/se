@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<excel id="student" name="student" excelName="学生报表">
+    <columns>
+        <column index="A" width="17" unit="em"></column>
+        <column index="B" width="17" unit="em"></column>
+        <column index="C" width="17" unit="em"></column>
+        <column index="D" width="17" unit="em"></column>
+        <column index="E" width="17" unit="em"></column>
+        <column index="F" width="17" unit="em"></column>
+    </columns>
+
+    <title rowspan="2" colspan="6" align="center">学生{date}报表</title>
+
+    <subTitle rowspan="1" colspan="6" align="center">日期：{date}</subTitle>
+
+    <table>
+        <tr height="16" unit="px">
+            <td>编号</td>
+            <td>姓名</td>
+            <td>年龄</td>
+            <td>生日</td>
+            <td>爱好</td>
+            <td>性别</td>
+        </tr>
+    </table>
+</excel>

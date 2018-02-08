@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jxls-jexcel-1.0.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jxls/jxls-jexcel/1.0.6/jxls-jexcel-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
