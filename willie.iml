@@ -36,5 +36,6 @@
     <orderEntry type="library" name="poi-ooxml-3.16" level="project" />
     <orderEntry type="library" name="poi-3.16" level="project" />
     <orderEntry type="library" name="commons-collections4-4.1" level="project" />
+    <orderEntry type="library" name="httpclient" level="project" />
   </component>
 </module>
