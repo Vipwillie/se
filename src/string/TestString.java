@@ -1,5 +1,9 @@
 package string;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
 /**
  * <p>功能 描述:</p>
  * <p>创  建 人:Willie</p>
@@ -12,5 +16,26 @@ public class TestString {
 
         String str2 = new StringBuilder("ja").append("va").toString();
         System.out.println(str2.intern() == str2);
+
+        List<String> list = Arrays.asList("a", "b", "c", "d");
+
+        StringBuilder str3 = new StringBuilder();
+        list.forEach(s -> {
+            if (s != null) {
+                if (str3.length() > 0) {
+                    str3.append(",").append(s);
+                } else {
+                    str3.append(s);
+                }
+            }
+        });
+        System.out.println(str3);
+
+        List<String> strings = Arrays.asList("abc", "", "bc", "efg", "abcd", "", "jkl");
+        List<String> filtered = strings.stream().filter(string -> !string.isEmpty()).collect(Collectors.toList());
+
+        System.out.println("筛选列表: " + filtered);
+        String mergedString = strings.stream().filter(string -> !string.isEmpty()).collect(Collectors.joining(", "));
+        System.out.println("合并字符串: " + mergedString);
     }
 }
