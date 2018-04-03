@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="314ccf3f-b739-4a07-ae53-39a75bc7a389" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/willie/string/TestString.class" afterPath="$PROJECT_DIR$/out/production/willie/string/TestString.class" />
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/AThread.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/AddCountThread.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/AtomicRun.class" afterPath="" />
@@ -50,53 +49,99 @@
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/lock/MyService.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/lock/MyThread.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/willie/thread/lock/Run.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/string/TestString.java" afterPath="$PROJECT_DIR$/src/string/TestString.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/AThread.java" afterPath="$PROJECT_DIR$/src/thread/AThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/AddCountThread.java" afterPath="$PROJECT_DIR$/src/thread/AddCountThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/AtomicRun.java" afterPath="$PROJECT_DIR$/src/thread/AtomicRun.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/BThread.java" afterPath="$PROJECT_DIR$/src/thread/BThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/CommonUtils.java" afterPath="$PROJECT_DIR$/src/thread/CommonUtils.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/HasSelfPrivateNum.java" afterPath="$PROJECT_DIR$/src/thread/HasSelfPrivateNum.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/MyList.java" afterPath="$PROJECT_DIR$/src/thread/MyList.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/MyThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/MyThread1.java" afterPath="$PROJECT_DIR$/src/thread/MyThread1.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/MyThread2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/PrintString.java" afterPath="$PROJECT_DIR$/src/thread/PrintString.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Run.java" afterPath="$PROJECT_DIR$/src/thread/Run.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Task.java" afterPath="$PROJECT_DIR$/src/thread/Task.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/Test.java" afterPath="$PROJECT_DIR$/src/thread/Test.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/TestRun.java" afterPath="$PROJECT_DIR$/src/thread/TestRun.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/TestRun1.java" afterPath="$PROJECT_DIR$/src/thread/TestRun1.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/TestVolatileThread.java" afterPath="$PROJECT_DIR$/src/thread/TestVolatileThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/ThreadA.java" afterPath="$PROJECT_DIR$/src/thread/ThreadA.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/ThreadB.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/VolatileDemo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/C.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/day01/MyThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/MyThread2.java" afterPath="$PROJECT_DIR$/src/thread/day01/MyThread2.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/P.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ReadData.java" afterPath="$PROJECT_DIR$/src/thread/day01/ReadData.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ReadThread.java" afterPath="$PROJECT_DIR$/src/thread/day01/ReadThread.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/Run1.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/Run2.java" afterPath="$PROJECT_DIR$/src/thread/day01/Run2.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/Run3.java" afterPath="$PROJECT_DIR$/src/thread/day01/Run3.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/Service.java" afterPath="$PROJECT_DIR$/src/thread/day01/Service.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ThreadA.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ThreadB.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ThreadC.java" afterPath="$PROJECT_DIR$/src/thread/day01/ThreadC.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ThreadP.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/ValueObject.java" afterPath="$PROJECT_DIR$/src/thread/day01/ValueObject.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/WriteData.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day01/WriteThread.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day02/MyThread.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day02/Run.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/day03/TestAutomic.java" afterPath="$PROJECT_DIR$/src/thread/day03/TestAutomic.java" />
-      <change beforePath="$PROJECT_DIR$/src/thread/join/MyThread.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/join/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/lock/MyService.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/lock/MyThread.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/thread/lock/Run.java" afterPath="$PROJECT_DIR$/src/thread/lock/Run.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AThread.java" afterPath="$PROJECT_DIR$/src/thread/AThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AddCountThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AddCountThread.java" afterPath="$PROJECT_DIR$/src/thread/AddCountThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AtomicRun.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/AtomicRun.java" afterPath="$PROJECT_DIR$/src/thread/AtomicRun.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/BThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/BThread.java" afterPath="$PROJECT_DIR$/src/thread/BThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/CommonUtils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/CommonUtils.java" afterPath="$PROJECT_DIR$/src/thread/CommonUtils.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/HasSelfPrivateNum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/HasSelfPrivateNum.java" afterPath="$PROJECT_DIR$/src/thread/HasSelfPrivateNum.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyList.java" afterPath="$PROJECT_DIR$/src/thread/MyList.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/MyThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread1.java" afterPath="$PROJECT_DIR$/src/thread/MyThread1.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/MyThread2.java" afterPath="$PROJECT_DIR$/src/thread/MyThread2.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/PrintString.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/PrintString.java" afterPath="$PROJECT_DIR$/src/thread/PrintString.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Run.java" afterPath="$PROJECT_DIR$/src/thread/Run.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Task.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Task.java" afterPath="$PROJECT_DIR$/src/thread/Task.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/Test.java" afterPath="$PROJECT_DIR$/src/thread/Test.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestRun.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestRun.java" afterPath="$PROJECT_DIR$/src/thread/TestRun.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestRun1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestRun1.java" afterPath="$PROJECT_DIR$/src/thread/TestRun1.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestVolatileThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/TestVolatileThread.java" afterPath="$PROJECT_DIR$/src/thread/TestVolatileThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/ThreadA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/ThreadA.java" afterPath="$PROJECT_DIR$/src/thread/ThreadA.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/ThreadB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/ThreadB.java" afterPath="$PROJECT_DIR$/src/thread/ThreadB.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/VolatileDemo.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/VolatileDemo.java" afterPath="$PROJECT_DIR$/src/thread/VolatileDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/C.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/C.java" afterPath="$PROJECT_DIR$/src/thread/day01/C.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/day01/MyThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/MyThread2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/MyThread2.java" afterPath="$PROJECT_DIR$/src/thread/day01/MyThread2.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/P.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/P.java" afterPath="$PROJECT_DIR$/src/thread/day01/P.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ReadData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ReadData.java" afterPath="$PROJECT_DIR$/src/thread/day01/ReadData.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ReadThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ReadThread.java" afterPath="$PROJECT_DIR$/src/thread/day01/ReadThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run1.java" afterPath="$PROJECT_DIR$/src/thread/day01/Run1.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run2.java" afterPath="$PROJECT_DIR$/src/thread/day01/Run2.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Run3.java" afterPath="$PROJECT_DIR$/src/thread/day01/Run3.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Service.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Service.java" afterPath="$PROJECT_DIR$/src/thread/day01/Service.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/Test.java" afterPath="$PROJECT_DIR$/src/thread/day01/Test.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadA.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadA.java" afterPath="$PROJECT_DIR$/src/thread/day01/ThreadA.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadB.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadB.java" afterPath="$PROJECT_DIR$/src/thread/day01/ThreadB.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadC.java" afterPath="$PROJECT_DIR$/src/thread/day01/ThreadC.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadP.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ThreadP.java" afterPath="$PROJECT_DIR$/src/thread/day01/ThreadP.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ValueObject.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/ValueObject.java" afterPath="$PROJECT_DIR$/src/thread/day01/ValueObject.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/WriteData.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/WriteData.java" afterPath="$PROJECT_DIR$/src/thread/day01/WriteData.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/WriteThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day01/WriteThread.java" afterPath="$PROJECT_DIR$/src/thread/day01/WriteThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day02/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day02/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/day02/MyThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day02/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day02/Run.java" afterPath="$PROJECT_DIR$/src/thread/day02/Run.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day03/TestAutomic.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/day03/TestAutomic.java" afterPath="$PROJECT_DIR$/src/thread/day03/TestAutomic.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/join/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/join/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/join/MyThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/join/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/join/Test.java" afterPath="$PROJECT_DIR$/src/thread/join/Test.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/MyService.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/MyService.java" afterPath="$PROJECT_DIR$/src/thread/lock/MyService.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/MyThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/MyThread.java" afterPath="$PROJECT_DIR$/src/thread/lock/MyThread.java" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/Run.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/factory/thread/lock/Run.java" afterPath="$PROJECT_DIR$/src/thread/lock/Run.java" />
+      <change beforePath="$PROJECT_DIR$/src/log4j.properties" afterPath="$PROJECT_DIR$/src/log4j.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/vcs.xml" />
@@ -123,28 +168,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AtomicRun.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/AtomicRun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddCountThread.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/thread/AddCountThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -193,8 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/proxy/IAdvice.java" />
-        <option value="$PROJECT_DIR$/src/proxy/BeforeAdvice.java" />
         <option value="$PROJECT_DIR$/src/proxy/DynamicProxy.java" />
         <option value="$PROJECT_DIR$/src/proxy/MyInvocationHandler.java" />
         <option value="$PROJECT_DIR$/src/proxy/Subject.java" />
@@ -244,6 +266,8 @@
         <option value="$PROJECT_DIR$/src/thread/day03/TestAutomic.java" />
         <option value="$PROJECT_DIR$/src/factory/thread/day03/TestAutomic.java" />
         <option value="$PROJECT_DIR$/src/string/TestString.java" />
+        <option value="$PROJECT_DIR$/src/factory/thread/AddCountThread.java" />
+        <option value="$PROJECT_DIR$/src/log4j.properties" />
       </list>
     </option>
   </component>
@@ -254,8 +278,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="749" />
-    <option name="width" value="1170" />
+    <option name="x" value="712" />
+    <option name="y" value="2" />
+    <option name="width" value="1213" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -309,18 +334,6 @@
               <item name="se" type="b2602c69:ProjectViewProjectNode" />
               <item name="se" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="se" type="b2602c69:ProjectViewProjectNode" />
-              <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="se" type="b2602c69:ProjectViewProjectNode" />
-              <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="se" type="b2602c69:ProjectViewProjectNode" />
@@ -906,7 +919,7 @@
       <workItem from="1522640515104" duration="1517000" />
       <workItem from="1522643323103" duration="1185000" />
       <workItem from="1522662445777" duration="29000" />
-      <workItem from="1522662762063" duration="1887000" />
+      <workItem from="1522662762063" duration="9252000" />
     </task>
     <task id="LOCAL-00001" summary="资源文件读取范例">
       <created>1521181389134</created>
@@ -929,11 +942,25 @@
       <option name="project" value="LOCAL" />
       <updated>1522316872649</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lambda遍历">
+      <created>1522715924802</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522715924802</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lambda遍历">
+      <created>1522715995774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522715995774</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360639000" />
+    <option name="totallyTimeSpent" value="368004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -945,22 +972,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="749" y="0" width="1170" height="1040" extended-state="0" />
+    <frame x="712" y="2" width="1213" height="1040" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5092421" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.51261264" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33810574" sideWeight="0.49662733" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.49075785" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.4873874" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21531531" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28187338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76435643" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27567568" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27493495" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43722466" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1021,66 +1048,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/thread/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ThreadB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/ThreadA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/day01/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/day02/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/thread/day02/Run.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/facade.Client">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>facade.Client</OriginalElement>
-          <nodes>
-            <node x="" y="">facade.Client</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="41.0" y="16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/facade.ModernPostOffice">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1283,20 +1250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/info.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/spi/RootLogger.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1408,8 +1361,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/thread/AddCountThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/info.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="1437" column="23" lean-forward="false" selection-start-line="1437" selection-start-column="23" selection-end-line="1437" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="361" column="26" lean-forward="false" selection-start-line="361" selection-start-column="26" selection-end-line="361" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/Log.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/LogFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/org/apache/commons/logging/impl/LogFactoryImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="441" column="55" lean-forward="false" selection-start-line="441" selection-start-column="55" selection-end-line="441" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="180" column="12" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
           <folding />
         </state>
       </provider>
