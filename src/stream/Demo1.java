@@ -14,12 +14,11 @@ import java.util.stream.Stream;
  **************************************************/
 public class Demo1 {
     public static void main(String[] args) {
-        System.out.println(checkVideoType(".avi"));
+        System.out.println(checkVideoType("你哄啊.AVI"));
     }
 
     private static boolean checkVideoType(String fileName) {
-//        List<String> vaildVideoType = Arrays.asList(".3gp", ".mp4", ".avi", ".wmv", ".mpg", ".mpeg", ".mov", ".flv");
         Stream<String> vaildVideoType = Stream.of(".3gp", ".mp4", ".avi", ".wmv", ".mpg", ".mpeg", ".mov", ".flv");
-        return vaildVideoType.anyMatch(videoType -> fileName.endsWith(videoType));
+        return vaildVideoType.anyMatch(videoType -> fileName.toLowerCase().endsWith(videoType));
     }
 }
