@@ -150,8 +150,7 @@ public class DateUtil {
     public static Date getFirstDayOfMonth(Date date) {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(date);
-        calendar.set(calendar.get(Calendar.YEAR),
-                calendar.get(Calendar.MONTH), 1);
+        calendar.set(calendar.get(Calendar.YEAR),calendar.get(Calendar.MONTH), 1);
         return calendar.getTime();
     }
 
@@ -357,6 +356,18 @@ public class DateUtil {
     }
 
     /**
+     * 取得具体日期的年份
+     *
+     * @param date 日期
+     * @return 日期的年份
+     */
+    public static int getSpecificDateYear(Date date) {
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTime(date);
+        return calendar.get(Calendar.YEAR);
+    }
+
+    /**
      * 取得起止时间的季度
      *
      * @param date1 起始时间
@@ -370,14 +381,9 @@ public class DateUtil {
         Date d1 = String2Date(date1);
         Date d2 = String2Date(date2);
 
-        Calendar calendar1 = Calendar.getInstance();
-        Calendar calendar2 = Calendar.getInstance();
-        calendar1.setTime(d1);
-        calendar2.setTime(d2);
-
         //指定日期的年份
-        Integer year1 = calendar1.get(Calendar.YEAR);
-        Integer year2 = calendar2.get(Calendar.YEAR);
+        Integer year1 = getSpecificDateYear(d1);
+        Integer year2 = getSpecificDateYear(d2);
 
         int yearSize = year2 - year1;//起止日期间隔年
         if (yearSize > 1) {
@@ -423,14 +429,9 @@ public class DateUtil {
         Date d1 = String2Date(date1);
         Date d2 = String2Date(date2);
 
-        Calendar calendar1 = Calendar.getInstance();
-        Calendar calendar2 = Calendar.getInstance();
-        calendar1.setTime(d1);
-        calendar2.setTime(d2);
-
         //指定日期的年份
-        Integer year1 = calendar1.get(Calendar.YEAR);
-        Integer year2 = calendar1.get(Calendar.YEAR);
+        Integer year1 = getSpecificDateYear(d1);
+        Integer year2 = getSpecificDateYear(d2);
 
         //指定日期的季度
         int quarter1 = getQuarterOfYear(d1);
