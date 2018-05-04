@@ -1,7 +1,5 @@
 package stream;
 
-import java.util.stream.Stream;
-
 /************************************************
  * Copyright (c)  by whxxykj
  * All right reserved.
@@ -12,13 +10,8 @@ import java.util.stream.Stream;
  * Last Update Date:
  * Change Log:
  **************************************************/
-public class Demo1 {
+public class Demo1 implements FileType {
     public static void main(String[] args) {
-        System.out.println(checkVideoType("你哄啊.AVI"));
-    }
-
-    private static boolean checkVideoType(String fileName) {
-        Stream<String> vaildVideoType = Stream.of(".3gp", ".mp4", ".avi", ".wmv", ".mpg", ".mpeg", ".mov", ".flv");
-        return vaildVideoType.anyMatch(videoType -> fileName.toLowerCase().endsWith(videoType));
+        System.out.println(new Demo1().checkVideoType("你哄啊.AVI"));
     }
 }
