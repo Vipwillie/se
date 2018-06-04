@@ -1,6 +1,8 @@
 package calender;
 
 
+import java.util.Date;
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -20,6 +22,13 @@ public class TestCalender {
 
         weekMap = DateUtil.getWeeks(date1, date2);
         System.out.println(weekMap);
+    }
+
+    private static Map<String, Object> getQuarters(String date1, String date2) {
+        Map<String, Object> quarters = new HashMap<>();
+        Date d1 = DateUtil.String2Date(date1);
+        Date d2 = DateUtil.String2Date(date2);
+        return quarters;
     }
 
 }

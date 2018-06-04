@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class LogFileOperate implements LogFileOperateApi {
 
-    private String logFilePathName = "AdapterLog.log";
+    private String logFilePathName = "";
 
     public LogFileOperate(String logFilePathName) {
         if (logFilePathName != null && logFilePathName.trim().length() > 0) {

@@ -11,11 +11,8 @@ import java.nio.channels.FileChannel;
  */
 public class NioTest {
     public static void main(String[] args) {
-        try {
-            FileInputStream fis = new FileInputStream(new File("student.xlsx"));
+        try (FileInputStream fis = new FileInputStream(new File("student.xlsx")); FileOutputStream fos = new FileOutputStream(new File("A.xlsx"));) {
             FileChannel fcRead = fis.getChannel();
-
-            FileOutputStream fos = new FileOutputStream(new File("A.xlsx"));
             FileChannel fcWrite = fos.getChannel();
             ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
 
@@ -28,10 +25,6 @@ public class NioTest {
                 byteBuffer.flip();
                 fcWrite.write(byteBuffer);
             }
-
-            fis.close();
-
-            fos.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

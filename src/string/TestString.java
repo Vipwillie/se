@@ -20,15 +20,6 @@ public class TestString {
         List<String> list = Arrays.asList("a", "b", "c", "d");
 
         StringBuilder str3 = new StringBuilder();
-        list.forEach(s -> {
-            if (s != null) {
-                if (str3.length() > 0) {
-                    str3.append(",").append(s);
-                } else {
-                    str3.append(s);
-                }
-            }
-        });
         System.out.println(str3);
 
         List<String> strings = Arrays.asList("abc", "", "bc", "efg", "abcd", "", "jkl");
